@@ -1,3 +1,1 @@
-bikerental
-bikerental
 # bikerental
